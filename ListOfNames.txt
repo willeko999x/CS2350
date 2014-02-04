@@ -25,5 +25,9 @@ When you add your name to the list, give your self the next consecutive number a
 15) HEAD, BRANDON
 16) JOHNSON, CHRISTOPHER
 17) BLAKE, ANDREW
+<<<<<<< HEAD
 >>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
-18) WRIGHT, JOSEPH
+=======
+18) CODY, BLACK
+>>>>>>> 0be031636e46c2440c56557f30bb0fb18edc8439
+19) WRIGHT, JOSEPH
