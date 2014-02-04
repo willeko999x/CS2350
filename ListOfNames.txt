@@ -37,4 +37,8 @@ When you add your name to the list, give your self the next consecutive number a
 20) GIFFIN, WILLIAM
 21) SPERL, LELAND
 22) LAVARNWAY, ETHAN
+<<<<<<< HEAD
 23) BUTHKER, GREGORY SCOTT
+=======
+23) WOOD, KYLE
+>>>>>>> ff7ef1c4ba5f3e633b590de7bd8f147edb055cff
