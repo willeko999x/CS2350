@@ -16,4 +16,14 @@ When you add your name to the list, give your self the next consecutive number a
 >>>>>>> da7d96db812e6d0ee93b7009d4caea9b42386dd3
 9)Bergman, Alexander
 10)Parker,Tyler
-11) WRIGHT, JOSEPH
+<<<<<<< HEAD
+=======
+11)Emily Novak
+12)ROBINSON, JACE
+13)Balasuriya,Lakshika
+14)Decker, Brantlyn
+15) HEAD, BRANDON
+16) JOHNSON, CHRISTOPHER
+17) BLAKE, ANDREW
+>>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
+18) WRIGHT, JOSEPH
