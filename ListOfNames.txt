@@ -50,5 +50,5 @@ When you add your name to the list, give your self the next consecutive number a
 =======
 25) GLINES, MADISON
 >>>>>>> ef149b9feead01950bec7867882c452824e1f11d
-26) BUTHKER, GREGORY
+26) BUTHKER, GREGORY *cs2350
 27) HITCHENS, JOSHUA
