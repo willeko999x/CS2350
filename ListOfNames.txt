@@ -51,7 +51,7 @@ When you add your name to the list, give your self the next consecutive number a
 25) GLINES, MADISON
 >>>>>>> ef149b9feead01950bec7867882c452824e1f11d
 <<<<<<< HEAD
-26) BUTHKER, GREGORY
+26) BUTHKER, GREGORY *GSBhub
 27) HITCHENS, JOSHUA *4eb3ddf5b6a221d3d133933285463308d48970de
 28) HO, HAU *kamizoko
 29) RUSSELL, DALTON
