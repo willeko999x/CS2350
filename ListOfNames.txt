@@ -73,5 +73,5 @@ When you add your name to the list, give your self the next consecutive number a
 38) Sheffer, Brandon
 39) Liu, Mason
 40) Bishop, Matthew Dylan
-41) Stewart, Christian
+41) Stewart, Christian *ChristianStewart
 
