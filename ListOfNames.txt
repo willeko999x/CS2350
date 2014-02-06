@@ -10,7 +10,6 @@ When you add your name to the list, give your self the next consecutive number a
 5) Bottorff, Benjamin *Velensk
 6) McCarren, Darin
 7) Whatley, Eugene
-8) Gross, Matthew
 <<<<<<< HEAD
 =======
 8) ROBINSON, VITORIA
@@ -64,3 +63,6 @@ When you add your name to the list, give your self the next consecutive number a
 32) DAVIS, IAN *TheKewlStore
 >>>>>>> 25878375d4605673ab0f1aca2d257e721c952122
 33) RYAN, KYLE
+
+35) Gross, Matthew
+
