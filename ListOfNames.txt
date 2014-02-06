@@ -39,7 +39,7 @@ When you add your name to the list, give your self the next consecutive number a
 22) LAVARNWAY, ETHAN
 <<<<<<< HEAD
 =======
-23) WOOD, KYLE
+23) WOOD, KYLE *KyleWood
 <<<<<<< HEAD
 >>>>>>> ff7ef1c4ba5f3e633b590de7bd8f147edb055cff
 =======
