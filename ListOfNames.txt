@@ -18,7 +18,7 @@ When you add your name to the list, give your self the next consecutive number a
 10)Parker,Tyler *tylerparker
 <<<<<<< HEAD
 =======
-11)Emily Novak
+11)NOVAK, EMILY *emilynovak
 12)ROBINSON, JACE *JaceRobinson
 13)Balasuriya,Lakshika
 14)Decker, Brantlyn *bdecker5
@@ -26,7 +26,7 @@ When you add your name to the list, give your self the next consecutive number a
 16) JOHNSON, CHRISTOPHER
 17) BLAKE, ANDREW
 <<<<<<< HEAD
-18) GIFFIN, WILLIAM *AVATARW
+18) GIFFIN, WILLIAM
 =======
 <<<<<<< HEAD
 >>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
