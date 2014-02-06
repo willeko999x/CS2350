@@ -26,7 +26,7 @@ When you add your name to the list, give your self the next consecutive number a
 16) JOHNSON, CHRISTOPHER
 17) BLAKE, ANDREW
 <<<<<<< HEAD
-18) GIFFIN, WILLIAM
+18) GIFFIN, WILLIAM *AVATARW
 =======
 <<<<<<< HEAD
 >>>>>>> 997cf32437d4d56fbabd31bbf8a0478086eb6a5e
