@@ -18,8 +18,8 @@ When you add your name to the list, give your self the next consecutive number a
 10)Parker,Tyler *tylerparker
 <<<<<<< HEAD
 =======
-11)Emily Novak
-12)ROBINSON, JACE
+11)NOVAK, EMILY *emilynovak
+12)ROBINSON, JACE *JaceRobinson
 13)Balasuriya,Lakshika
 14)Decker, Brantlyn *bdecker5
 15) HEAD, BRANDON
@@ -35,15 +35,15 @@ When you add your name to the list, give your self the next consecutive number a
 19) WRIGHT, JOSEPH *JoeWright117
 >>>>>>> 9d7a124b94c69cb313be8cf1971d614fa9a16f7d
 20) GIFFIN, WILLIAM
-21) SPERL, LELAND
+21) SPERL, LELAND *Zoidmania
 22) LAVARNWAY, ETHAN
 <<<<<<< HEAD
 =======
-23) WOOD, KYLE
+23) WOOD, KYLE *KyleWood
 <<<<<<< HEAD
 >>>>>>> ff7ef1c4ba5f3e633b590de7bd8f147edb055cff
 =======
-24) BABEL, VICTORIA
+24) BABEL, VICTORIA *victoriababel
 <<<<<<< HEAD
 
 >>>>>>> 5c35c5b4471f963c4a626aecd20ab9a53857efb4
